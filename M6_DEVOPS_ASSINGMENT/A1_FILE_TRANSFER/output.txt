@@ -1,0 +1,12 @@
+Started by user Harish Ezhil
+
+Running as SYSTEM
+Building in workspace H:\nextrurn\new_jenkins_home\workspace\EXERCISE 1
+[EXERCISE 1] $ cmd /c call C:\Users\harish\AppData\Local\Temp\jenkins5027284222774472518.bat
+
+H:\nextrurn\new_jenkins_home\workspace\EXERCISE 1>xcopy H:\nextrurn\JENKINS\source H:\nextrurn\JENKINS\target /E /I /H /Y 
+H:\nextrurn\JENKINS\source\hi.txt
+1 File(s) copied
+
+H:\nextrurn\new_jenkins_home\workspace\EXERCISE 1>exit 0 
+Finished: SUCCESS
