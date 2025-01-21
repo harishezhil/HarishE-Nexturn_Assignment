@@ -25,5 +25,3 @@
 - Perform CRUD operations using `pyodbc`.
 - Deploy the updated app to Azure App Service and verify functionality.
 
-## Conclusion
-Learn to manage VMs, deploy static and dynamic apps, and integrate with Azure SQL.
